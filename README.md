@@ -35,9 +35,22 @@ The love percentage is calculated using:
 - **Threading** (Smooth animations)
 
 ---
++📸 Preview
 
+The application opens as a desktop window where users can:
+
+Enter two names
+
+Click Calculate Love
+
+View animated progress and result output
+
+----
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/praveenkumar0110/Love-Calculator.git
+cd Love-Calculator
+python love.py
+

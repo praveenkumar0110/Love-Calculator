@@ -1,4 +1,4 @@
-# 💖 Love Calculator (Python Tkinter)
+#  Love Calculator (Python Tkinter)
 
 A fun and interactive **desktop Love Calculator application** built using **Python Tkinter**.  
 This project focuses on **GUI design, animations, and logical score calculation**, not real-world accuracy.

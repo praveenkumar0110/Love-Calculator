@@ -138,3 +138,6 @@ result_label.pack(pady=20)
 
 
 root.mainloop()
+
+
+#Crafted with 🤍 by E. Praveen Kumar

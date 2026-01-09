@@ -35,7 +35,7 @@ The love percentage is calculated using:
 - **Threading** (Smooth animations)
 
 ---
-+📸 Preview
+## 📸 Preview
 
 The application opens as a desktop window where users can:
 

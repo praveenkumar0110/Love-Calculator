@@ -16,6 +16,8 @@ This project focuses on **GUI design, animations, and logical score calculation*
 
 ---
 
+
+
 ## 🧠 How the Logic Works
 
 The love percentage is calculated using:
